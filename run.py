@@ -5,6 +5,6 @@ calling Python explicitly"""
 
 """ this runs from the command line, and from Idle """
 print('Hello, Python')
-""" A way of previenting exiting is necessary to see that something is
-    happening if you jus tdouble click from Windows Explorer """
+""" A way of preventing exiting is necessary to see that something is
+    happening if you just double click from Windows Explorer """
 print(input('?'))
